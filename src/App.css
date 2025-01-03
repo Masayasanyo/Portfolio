@@ -215,7 +215,7 @@ footer {
     
     hr {
         border: #6A9AB0 6px dotted; 
-        margin: 50px;
+        margin: 20px;
         text-align: center;
     }
 
@@ -227,10 +227,10 @@ footer {
         font-size: 1.2rem;
         padding: 0px 30px 0px 30px;
         display: flex;
-        flex-direction: column;
     }
 
     .logo {
+        margin-top: 20px;
         margin-bottom: 0px;
     }
 
@@ -244,12 +244,15 @@ footer {
         font-style: normal;
         display: flex;
         flex-wrap: wrap;
-        margin: 20px auto 0px 0px;
+        justify-content: flex-start;
+        margin: 10px auto 0px 30px;
     }
 
     .link {
-        margin-right: 5px;
-    }    
+        margin: 0px 20px 0px 0px;
+        text-decoration:none;
+        color: gray;
+    }
     
 
     /* Home */
