@@ -10,11 +10,11 @@ function Project() {
             </div>
             <div className='project-container'>
                 <div className='project'>
-                    <p>Password manager</p>
+                    <h3>Password manager</h3>
                     <img src={ pm_gif } alt='pm_animation'/>
                 </div>
                 <div className='project'>
-                    <p>Turtle scooping</p>
+                    <h3>Turtle scooping</h3>
                     <img src={ ts_gif } alt='ts_animation' height="400px" />
                 </div>
             </div>
