@@ -18,7 +18,7 @@ function Home() {
                 <div className='content'>
                     <h2>Get In Touch</h2>
                     <p>If you love learning new things as much as I do.</p>
-                    <p>Let's talk about what we are learning and make new things.</p>
+                    <p>Let's talk about what we are learning and create new things.</p>
                     <a href="https://forms.gle/M6CPFDmvnjL4JE9TA" target="_blank" rel="noopener noreferrer">
                         CONTACT ME
                     </a>

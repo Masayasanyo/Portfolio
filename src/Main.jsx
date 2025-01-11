@@ -9,7 +9,7 @@ function Main() {
   return (
     <div className='main'>
         <Routes>
-            <Route path='/' element={<Home />} />
+            <Route path='/Portfolio' element={<Home />} />
             <Route path='/education' element={<Education />} />
             <Route path='/skill' element={<Skill />} />
             <Route path='/project' element={<Project />} />
