@@ -12,7 +12,7 @@ function Home() {
             <div className='contents-container'>
                 <div className='content'>
                     <h2>About me</h2>
-                    <p>University student</p>
+                    <p>Graduate student</p>
                     <p>I love books, movies, learning computer science and English.</p>
                 </div>
                 <div className='content'>
