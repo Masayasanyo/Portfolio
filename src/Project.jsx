@@ -2,6 +2,7 @@ import React from 'react';
 import pm_gif from './assert/passmana.gif';
 import ts_gif from './assert/turtle.gif';
 import todo from './assert/todo.png'
+import rm_gif from './assert/menu.gif'
 
 function Project() {
     return (
@@ -22,6 +23,10 @@ function Project() {
                     <h3>ToDo</h3>
                     <img src={ todo } alt='todo main page' height="400px" />
                 </div>
+                <div className='project'>
+                    <h3>Recipe manager</h3>
+                    <img src={ rm_gif } alt='Recipe manager app' height="400px" />
+                </div>
             </div>
 
             <div className='sub-container'>
@@ -29,7 +34,6 @@ function Project() {
             </div>
             <div className='goals-container'>
                 <p>An apps for foreigners who want to live in or visit Japan</p>
-                <p>Recipe manager</p>
             </div>
         </div>
     );
